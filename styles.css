@@ -1,3 +1,11 @@
+
+.social-menu ul {
+    list-style: none;
+    display: flex;
+}
+.social-menu i {
+    margin-right: 5px;
+}
 * {
   margin: 0;
   padding: 0;
@@ -959,4 +967,5 @@ footer span a:hover {
     font-size: 23px;
     line-height: 38px;
   }
+
 }
