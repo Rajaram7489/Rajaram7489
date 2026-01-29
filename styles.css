@@ -548,7 +548,7 @@ section .title::after {
 .projects .carousel .card {
   background: #222;
   border-radius: 6px;
-  padding: 25px 35px;
+  padding: 80px 35px;
   text-align: center;
   overflow: hidden;
   transition: all 0.3s ease;
@@ -970,5 +970,6 @@ footer span a:hover {
   }
 
 }
+
 
 
